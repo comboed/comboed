@@ -1,8 +1,6 @@
 # Hey There! I'm Michael 👋
 
-Welcome to my github! My name's Mihchael Sarfo and I am a junior at Kean University studying Computer Science. I have a passion for computer programming and software development.
-This passion of mine has given me the ability to develop a multitude of programs and learn new technologies.
-
+Welcome to my github! My name's Michael Sarfo and I am a junior at Kean University studying Computer Science. I have a passion for computer programming and software development.
 ## About me 👨‍💻
 <p>
     <ul>
