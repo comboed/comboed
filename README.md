@@ -8,7 +8,7 @@ This passion of mine has given me the ability to develop a multitude of programs
     <ul>
         <li>🖥️ I’m currently developing a "Finish The Lyrics" musical game</li>
         <li>🌱 I’m currently taking interesting courses on data structures and computer organization/architecture/li>
-        <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/Aditya_Parekh_Resume.pdf">Resume</a></li>
+        <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/comboed/resume/blob/main/Resume%20-%20Michael%20Sarfo.pdf">Resume</a></li>
     </ul>
 </p>
 
