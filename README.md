@@ -5,7 +5,7 @@ Welcome to my github! My name's Michael Sarfo and I am a junior at Kean Universi
 <p>
     <ul>
         <li>🖥️ I’m currently developing a "Finish The Lyrics" musical game</li>
-        <li>🌱 I’m currently taking interesting courses on data structures and computer organization/architecture/li>
+        <li>🌱 I’m currently taking interesting courses on data structures and computer architecture/li>
         <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/comboed/resume/blob/main/Resume%20-%20Michael%20Sarfo.pdf">Resume</a></li>
     </ul>
 </p>
